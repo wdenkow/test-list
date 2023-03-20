@@ -1,0 +1,16 @@
+.filter {
+    display: flex;
+    justify-content: center;
+
+    &__input {
+        width: 140px;
+        height: 30px;
+        margin-left: 4px;
+    }
+
+    &__resetBtn {
+        width: 80px;
+        height: 30px;
+        margin-left: 16px;
+    }
+}
